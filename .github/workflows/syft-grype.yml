@@ -1,4 +1,4 @@
-name: SBOM Generation and Dependency Vulnerability Scan
+name: syft + grype vulnerability scan
 
 on:
   schedule:
